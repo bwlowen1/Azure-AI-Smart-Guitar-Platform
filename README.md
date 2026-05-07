@@ -3,7 +3,7 @@ Azure AI pipeline for invoice extraction and sentiment classification via Python
 Smart Guitar Insight Platform — Azure AI
 Automated document extraction and sentiment classification pipeline using Azure AI services via Python SDK, built for MSBA 695 (Cloud Computing & AI Engineering).
 Overview
-This project simulates a guitar manufacturer's back-office automation needs: extracting structured data from invoices and classifying warranty email sentiment — all using Azure Cognitive Services with zero cloud spend.
+This project simulates a guitar manufacturer's back-office automation needs: extracting structured data from invoices and classifying warranty email sentiment, all using Azure Cognitive Services with zero cloud spend.
 What I Built
 
 Invoice Extraction: Azure Form Recognizer to parse vendor invoices and extract key fields (amounts, dates, line items) into structured output
